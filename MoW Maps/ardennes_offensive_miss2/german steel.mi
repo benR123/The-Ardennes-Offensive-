@@ -1,0 +1,1459 @@
+{mission
+	{Entity "colt" 0xe001
+		{Position 1578.13 -2495.07 25.67}
+		{xform zl -178.92 y 89.8 zw -169.32}
+		{Extender "stuff"
+			{Item "colt" filled}
+		}
+	}
+	{Entity "colt" 0xe002
+		{Position 1555.27 -2477.33 25.08}
+		{xform zl 28.58 y 0.08 zw 101.22}
+		{Extender "stuff"
+			{Item "colt" filled}
+		}
+	}
+	{Entity "colt" 0xe003
+		{Position 1545.11 -2522.08 25.09}
+		{xform zl 61.86 y 0.08 zw 55.88}
+		{Extender "stuff"
+			{Item "colt" filled}
+		}
+	}
+	{Entity "colt" 0xe004
+		{Position 1530.3 -2503.45 25.17}
+		{xform zl 1.4 y 179.92 zw 50.02}
+		{Extender "stuff"
+			{Item "colt" filled}
+		}
+	}
+	{Entity "m3a" 0xe005
+		{Position 1601.1 -2464.45 25.08}
+		{xform zl -139.78 y 0.04 zw 50.82}
+		{Extender "stuff"
+			{Item "m3a" filled}
+		}
+	}
+	{Tags "keep_places_without_door" 0x2008}
+	{Tags "keep_places_without_door" 0x2024}
+	{Tags "keep_places_without_door" 0x2045}
+	{Tags "keep_places_without_door" 0x1800}
+	{Tags "keep_places_without_door" 0x3800}
+	{Tags "keep_places_without_door" 0x2400}
+	{Tags "keep_places_without_door" 0x5008}
+	{Tags "keep_places_without_door" 0x280d}
+	{Tags "keep_places_without_door" 0x6800}
+	{Tags "keep_places_without_door" 0x1400}
+	{Tags "keep_places_without_door" 0x103f}
+	{Tags "keep_places_without_door" 0x602c}
+	{Tags "keep_places_without_door" 0x300b}
+	{Tags "keep_places_without_door" 0x80b}
+	{Tags "keep_places_without_door" 0x6400}
+	{Tags "keep_places_without_door" 0x200b}
+	{Tags "keep_places_without_door" 0x507a}
+	{Tags "keep_places_without_door" 0x801}
+	{Tags "keep_places_without_door" 0x20a4}
+	{Tags "keep_places_without_door" 0x2401}
+	{Tags "keep_places_without_door" 0x7400}
+	{Tags "keep_places_without_door" 0x5803}
+	{Tags "keep_places_without_door" 0x20dc}
+	{Tags "keep_places_without_door" 0x2806}
+	{Tags "keep_places_without_door" 0x5812}
+	{Tags "keep_places_without_door" 0x402}
+	{Tags "keep_places_without_door" 0x20dd}
+	{Tags "crushed" 0x6050}
+	{Tags "keep_places_without_door" 0x584c}
+	{Tags "keep_places_without_door" 0x417}
+	{Tags "keep_places_without_door" 0x433}
+	{Tags "keep_places_without_door" 0x240a}
+	{Tags "keep_places_without_door" 0x3406}
+	{Tags "keep_places_without_door" 0x3410}
+	{Tags "keep_places_without_door" 0x30d}
+	{Tags "keep_places_without_door" 0x107e}
+	{Tags "keep_places_without_door" 0x1092}
+	{Tags "keep_places_without_door" 0x3003}
+	{Tags "keep_places_without_door" 0x4400}
+	{Tags "keep_places_without_door" 0x341a}
+	{Tags "keep_places_without_door" 0x7072}
+	{Tags "crushed" 0x84d}
+	{Tags "keep_places_without_door" 0x1200}
+	{Tags "keep_places_without_door" 0x6a08}
+	{Tags "keep_places_without_door" 0x7601}
+	{Tags "keep_places_without_door" 0x10e8}
+	{Tags "keep_places_without_door" 0x511f}
+	{Tags "keep_places_without_door" 0x5120}
+	{Tags "keep_places_without_door" 0x5125}
+	{Tags "keep_places_without_door" 0x6135}
+	{Tags "keep_places_without_door" 0x430b}
+	{Tags "keep_places_without_door" 0x2197}
+	{Tags "keep_places_without_door" 0x6137}
+	{Tags "keep_places_without_door" 0x6142}
+	{Tags "keep_places_without_door" 0x437d}
+	{Tags "keep_places_without_door" 0x4387}
+	{Tags "keep_places_without_door" 0x5a4}
+	{Brain 0x247
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6805
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x212b
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x849
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x39c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x3b0
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x3b3
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x3b4
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4272
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4f8
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4fa
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4fe
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4ff
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x418d
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5864
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x2424
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6407
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6408
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x640a
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x640d
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x640f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6410
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6412
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6414
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6415
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c01
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c03
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c04
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c06
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c08
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c09
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c0a
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c11
+		{Properties
+			{fire_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c13
+		{Properties
+			{fire_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x3c18
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4c01
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4c03
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x7406
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4f5
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4fd
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x505
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x518
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x524
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x528
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x52b
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x52f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x532
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x536
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x537
+		{Properties
+			{control user}
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4f6
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x53b
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x2187
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x218f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x542
+		{Properties
+			{control user}
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x57c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x57e
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x57f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4316
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4317
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4318
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x431c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x431f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x54e
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x553
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x219a
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x219d
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x1097
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x59c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5a0
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x5a1
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x5ac
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4319
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x613e
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6141
+		{Properties
+			{look_around 0}
+		}
+	}
+	{Brain 0x6146
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6149
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x512c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x70c4
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4320
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4326
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x614c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x614f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x21a2
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x21a3
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x21a4
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4345
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4346
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4348
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4349
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x434c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x434d
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x434e
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x434f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4350
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4351
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4352
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4357
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x435a
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x435d
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4362
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{look_around 0}
+		}
+	}
+	{Brain 0x4363
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4366
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x55c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x574
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x576
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x57b
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x57d
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x584
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x585
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4347
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4367
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4368
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4369
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x436b
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x436d
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x436f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4371
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4373
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x21a5
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6158
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x581
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x587
+		{Properties
+			{look_around 0}
+		}
+	}
+	{Brain 0x588
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x58a
+		{Properties
+			{look_around 0}
+		}
+	}
+	{Brain 0x557
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x558
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x55e
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x21a9
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x21aa
+		{Properties
+			{fire_mode hold}
+		}
+	}
+	{Brain 0x21ac
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x21ae
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5af
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5b1
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5b4
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5b6
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5b8
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5b9
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5bb
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5bf
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5c1
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5c2
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5c4
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5c8
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5c9
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5ce
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5cf
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5d0
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5d1
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5d4
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5d5
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x438b
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x438d
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x438f
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x4393
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6150
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6152
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6155
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x615d
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x6168
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6169
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x616a
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x616b
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x616c
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x616d
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x616e
+		{Properties
+			{control user}
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x616f
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Environment "skirmish/rus-debrecen"}
+	{Helpers
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 1}
+}

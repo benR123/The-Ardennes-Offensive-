@@ -1,0 +1,1807 @@
+{mission
+	{Tags "keep_places_without_door" 0x15b}
+	{Tags "keep_places_without_door" 0x173}
+	{Tags "keep_places_without_door" 0x181}
+	{Tags "keep_places_without_door" 0x4031}
+	{Tags "keep_places_without_door" 0x4045}
+	{Tags "keep_places_without_door" 0x4052}
+	{Tags "keep_places_without_door" 0x4078}
+	{Tags "keep_places_without_door" 0x2018}
+	{Tags "keep_places_without_door" 0x6000}
+	{Tags "keep_places_without_door" 0x3000}
+	{Tags "keep_places_without_door" 0x301c}
+	{Tags "keep_places_without_door" 0x7000}
+	{Tags "keep_places_without_door" 0x800}
+	{Tags "keep_places_without_door" 0x821}
+	{Tags "keep_places_without_door" 0x84b}
+	{Tags "keep_places_without_door" 0x864}
+	{Tags "keep_places_without_door" 0x4800}
+	{Tags "keep_places_without_door" 0x6018}
+	{Tags "keep_places_without_door" 0x6029}
+	{Tags "keep_places_without_door" 0x204a}
+	{Tags "keep_places_without_door" 0x602b}
+	{Tags "keep_places_without_door" 0x409d}
+	{Tags "keep_places_without_door" 0x2036}
+	{Tags "panther" "hidden" 0x6072}
+	{Tags "stuh" "hidden" 0x5041}
+	{Tags "infantrysquad" "hidden" 0x40e4}
+	{Tags "infantrysquad" "hidden" 0x40e5}
+	{Tags "infantrysquad" "hidden" 0x40e6}
+	{Tags "infantrysquad" "hidden" 0x40e7}
+	{Tags "infantrysquad" "hidden" 0x40e8}
+	{Tags "infantrysquad" "hidden" 0x40e9}
+	{Tags "infantrysquad" "hidden" 0x40ea}
+	{Tags "infantrysquad" "hidden" 0x40eb}
+	{Tags "keep_places_without_door" 0x1801}
+	{Tags "pz4h" "hidden" 0x31c}
+	{Tags "mech_inf" "hidden" 0x31d}
+	{Brain 0x501e
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x100a
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x21a
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x239
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x261
+		{Properties
+			{ai_move
+				{mode disable}
+			}
+		}
+		{LookAt 347.832 262.478 0.000271112}
+	}
+	{Brain 0x40c7
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40cc
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x2041
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x605f
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x6064
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x303c
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x5024
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x502e
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x5033
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x5034
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x813
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x4081
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x294
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x405d
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x4080
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40c5
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x40cd
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40d0
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40d2
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x5020
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x502c
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x7026
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x815
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x817
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x820
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x825
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x827
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x832
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x836
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x83a
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x83c
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x83e
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x840
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x843
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x845
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x848
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x857
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x85b
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x860
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x862
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2806
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2809
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x280b
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x280d
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x280f
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2811
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2813
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2818
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x281a
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x281c
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2821
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x2823
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x2825
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x2826
+		{Properties
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x2828
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x282a
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x282c
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x282f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x2831
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2833
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2835
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2838
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x283c
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x680e
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x6812
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x295
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x296
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x297
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x298
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x299
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x29a
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x29b
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x29c
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x29d
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x29e
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x29f
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x2a0
+		{Properties
+			{ai_move
+				{mode disable}
+			}
+		}
+		{LookAt 347.832 262.478 0.000271112}
+	}
+	{Brain 0x2a1
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2a5
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2a6
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2a7
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2a8
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2a9
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2aa
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2ab
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2ac
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2ad
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2ae
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+			{no_advance}
+		}
+	}
+	{Brain 0x2af
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x2b2
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x2b5
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2b6
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2b8
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2ba
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2bc
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2bd
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x2be
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x2bf
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2c0
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2c1
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2c2
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2c3
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2c4
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2c5
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2c6
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2c7
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x502a
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x502f
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x5038
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x503c
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x503e
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x5040
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x5042
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x5044
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x5046
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x5048
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x504a
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x504c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x504d
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x504f
+		{Properties
+			{move_mode hold}
+			{no_retreat}
+		}
+	}
+	{Brain 0x203f
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2049
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x205b
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x205d
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x205f
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x2061
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x206a
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x7024
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x7027
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x7029
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x702b
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x702c
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x7030
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x605d
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x40cf
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x40d3
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x40d4
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x40d6
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x303e
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x3040
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x3042
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x7033
+		{Properties
+			{move_mode hold}
+			{no_advance}
+			{no_retreat}
+		}
+	}
+	{Brain 0x814
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x818
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x2b4
+		{Properties
+			{fire_mode hold}
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x2bb
+		{Properties
+			{fire_mode hold}
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x2c9
+		{Properties
+			{fire_mode hold}
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x40d7
+		{Properties
+			{control user}
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x6055
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6066
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x6067
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x606a
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x606c
+		{Properties
+			{move_mode hold}
+			{ai_move
+				{mode disable}
+			}
+		}
+	}
+	{Brain 0x606e
+		{Properties
+			{move_mode hold}
+		}
+	}
+	{Brain 0x6072
+		{Properties
+			{control user}
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x1023
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x5041
+		{Properties
+			{control user}
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x5054
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e4
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e5
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e6
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e7
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e8
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e9
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40ea
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40eb
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40f4
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40f5
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40f6
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40f7
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40f8
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40f9
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40fa
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40fb
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x411c
+		{Properties
+			{control user}
+		}
+	}
+	{Brain 0x40db
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40dc
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40dd
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40de
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40df
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e0
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e1
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x40e2
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x31c
+		{Properties
+			{move_mode hold}
+			{look_around 0}
+		}
+	}
+	{Brain 0x325
+		{Properties
+			{move_mode hold}
+			{no_advance}
+		}
+	}
+	{Brain 0x31d
+		{Properties
+			{control user}
+			{move_mode hold}
+			{look_around 0}
+		}
+		{LookAt -1324.96 132.998 -18.9307}
+	}
+	{Brain 0x4026
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x4027
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x4028
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x4029
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x402a
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x402b
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x402c
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x402d
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x402e
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Brain 0x4030
+		{Properties
+			{control user}
+			{move_mode hold}
+		}
+	}
+	{Environment "skirmish/_bonus_02"}
+	{Helpers
+		{event "menu_armor"}
+		{event "menu_back"}
+		{event "menu_flag"}
+		{event "menu_inf_squad"}
+		{event "menu_infantry"}
+		{event "menu_mech_inf"}
+		{event "menu_panther"}
+		{event "menu_pz4h"}
+		{event "menu_stuh"}
+		{reinforcements
+			{scoreTotal 3000}
+			{scoreCurrent 3000}
+			{"menu_flag"
+				{state "-"}
+				{text "$/menu_flag"}
+				{image ger_skirmish}
+				{hint "$/menu_flag"}
+				{count -1}
+				{score 0}
+				{delay 0}
+				{eventStart "menu_flag"}
+			}
+			{"inf_squad"
+				{state hidden}
+				{text "$/menu_inf_squad"}
+				{image "squad1(ger)"}
+				{hint "$/menu_inf_squad"}
+				{count -1}
+				{score 250}
+				{delay 2}
+				{eventStart "menu_inf_squad"}
+				{waypoint "0"}
+			}
+			{"mech_inf"
+				{state hidden}
+				{text "$/menu_mech_inf"}
+				{image "squad1(ger)"}
+				{hint "$/menu_mech_inf"}
+				{count -1}
+				{score 350}
+				{delay 2}
+				{eventStart "menu_mech_inf"}
+				{waypoint "0"}
+			}
+			{"panther"
+				{state hidden}
+				{text "$/menu_panther"}
+				{image pz5g}
+				{hint "$/menu_panther"}
+				{count -1}
+				{score 1000}
+				{delay 5}
+				{eventStart "menu_panther"}
+				{waypoint "1"}
+			}
+			{"pz4h"
+				{state hidden}
+				{text "$/menu_pz4h"}
+				{image pz4h}
+				{hint "$/menu_pz4h"}
+				{count -1}
+				{score 750}
+				{delay 5}
+				{eventStart "menu_pz4h"}
+				{waypoint "1"}
+			}
+			{"stuh"
+				{state hidden}
+				{text "$/menu_stuh"}
+				{image stuh42}
+				{hint "$/menu_stuh"}
+				{count -1}
+				{score 850}
+				{delay 5}
+				{eventStart "menu_stuh"}
+				{waypoint "1"}
+			}
+			{"menu_infantry"
+				{state "-"}
+				{text "$/menu_infantry"}
+				{image "menu1(skirmish)"}
+				{hint "$/menu_infantry"}
+				{count -1}
+				{score 0}
+				{delay 0}
+				{eventStart "menu_infantry"}
+			}
+			{"menu_armor"
+				{state "-"}
+				{text "$/menu_armor"}
+				{image "menu4(skirmish)"}
+				{hint "$/menu_armor"}
+				{count -1}
+				{score 0}
+				{delay 0}
+				{eventStart "menu_armor"}
+			}
+			{"menu_back"
+				{state hidden}
+				{text "$/menu_back"}
+				{image skip}
+				{hint "$/menu_back"}
+				{count -1}
+				{score 0}
+				{delay 0}
+				{eventStart "menu_back"}
+			}
+		}
+		{triggers
+			{"reinforcements/main_menu"
+				{condition
+					{terms
+						{"1.event"
+							{id "menu_back"}
+						}
+					}
+				}
+				{actions
+					{"event"
+						{event "menu_back"}
+						{mode reset}
+						{delay 0}
+					}
+					{"reinforcement"
+						{operation show}
+						{name menu_flag}
+					}
+					{"reinforcement"
+						{operation show}
+						{name menu_infantry}
+					}
+					{"reinforcement"
+						{operation show}
+						{name menu_armor}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name inf_squad}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name mech_inf}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name panther}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name pz4h}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name stuh}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name menu_back}
+					}
+					{"trigger"
+						{name "reinforcements/main_menu"}
+					}
+				}
+			}
+			{"reinforcements/menu_inf_show"
+				{condition
+					{terms
+						{"1.event"
+							{id "menu_infantry"}
+						}
+					}
+				}
+				{actions
+					{"event"
+						{event "menu_infantry"}
+						{mode reset}
+						{delay 0}
+					}
+					{"reinforcement"
+						{operation show}
+						{name inf_squad}
+					}
+					{"reinforcement"
+						{operation show}
+						{name mech_inf}
+					}
+					{"reinforcement"
+						{operation show}
+						{name menu_back}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name menu_flag}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name menu_infantry}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name menu_armor}
+					}
+					{"trigger"
+						{name "reinforcements/menu_inf_show"}
+					}
+				}
+			}
+			{"reinforcements/menu_armor_show"
+				{condition
+					{terms
+						{"1.event"
+							{id "menu_armor"}
+						}
+					}
+				}
+				{actions
+					{"event"
+						{event "menu_armor"}
+						{mode reset}
+						{delay 0}
+					}
+					{"reinforcement"
+						{operation show}
+						{name panther}
+					}
+					{"reinforcement"
+						{operation show}
+						{name pz4h}
+					}
+					{"reinforcement"
+						{operation show}
+						{name stuh}
+					}
+					{"reinforcement"
+						{operation show}
+						{name menu_back}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name menu_flag}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name menu_infantry}
+					}
+					{"reinforcement"
+						{operation hide}
+						{name menu_armor}
+					}
+					{"trigger"
+						{name "reinforcements/menu_armor_show"}
+					}
+				}
+			}
+			{"reinforcements/menu/inf_squad"
+				{condition
+					{terms
+						{"1.event"
+							{id "menu_inf_squad"}
+						}
+					}
+				}
+				{actions
+					{"event"
+						{event "menu_inf_squad"}
+						{mode reset}
+						{delay 0}
+					}
+					{"actor_to_waypoint"
+						{selector
+							{tag infantrysquad}
+						}
+						{waypoint "0"}
+						{clone}
+					}
+					{"actor_state"
+						{selector
+							{tag infantrysquad}
+						}
+						{control user}
+						{fire_mode open}
+						{move_mode hold}
+						{weapon_prepare on}
+						{ai_move
+							{mode enable}
+						}
+						{movement
+							{speed normal}
+						}
+					}
+					{"delay"
+						{time 2}
+					}
+					{"trigger"
+						{name "reinforcements/menu/inf_squad"}
+					}
+				}
+			}
+			{"reinforcements/menu/panther"
+				{condition
+					{terms
+						{"1.event"
+							{id "menu_panther"}
+						}
+					}
+				}
+				{actions
+					{"event"
+						{event "menu_panther"}
+						{mode reset}
+						{delay 2}
+					}
+					{"actor_to_waypoint"
+						{selector
+							{tag panther}
+						}
+						{waypoint "1"}
+						{clone}
+					}
+					{"actor_state"
+						{selector
+							{tag panther}
+						}
+						{control user}
+						{fire_mode open}
+						{move_mode hold}
+						{weapon_prepare on}
+						{ai_move
+							{mode enable}
+						}
+						{movement
+							{speed normal}
+						}
+					}
+					{"delay"
+						{time 2}
+					}
+					{"trigger"
+						{name "reinforcements/menu/panther"}
+					}
+				}
+			}
+			{"reinforcements/menu/stuh42"
+				{condition
+					{terms
+						{"1.event"
+							{id "menu_stuh"}
+						}
+					}
+				}
+				{actions
+					{"event"
+						{event "menu_stuh"}
+						{mode reset}
+						{delay 2}
+					}
+					{"actor_state"
+						{selector
+							{tag stuh}
+						}
+						{control user}
+						{fire_mode open}
+						{move_mode hold}
+						{weapon_prepare on}
+						{ai_move
+							{mode enable}
+						}
+						{movement
+							{speed normal}
+						}
+					}
+					{"actor_to_waypoint"
+						{selector
+							{tag stuh}
+						}
+						{waypoint "1"}
+						{clone}
+					}
+					{"delay"
+						{time 2}
+					}
+					{"trigger"
+						{name "reinforcements/menu/stuh42"}
+					}
+				}
+			}
+			{"reinforcements/menu/pz4h"
+				{condition
+					{terms
+						{"1.event"
+							{id "menu_pz4h"}
+						}
+					}
+				}
+				{actions
+					{"event"
+						{event "menu_pz4h"}
+						{mode reset}
+						{delay 2}
+					}
+					{"actor_to_waypoint"
+						{selector
+							{tag pz4h}
+						}
+						{waypoint "1"}
+						{clone}
+					}
+					{"actor_state"
+						{selector
+							{tag pz4h}
+						}
+						{control user}
+						{fire_mode open}
+						{move_mode hold}
+						{weapon_prepare on}
+						{movement
+							{speed normal}
+						}
+					}
+					{"delay"
+						{time 2}
+					}
+					{"trigger"
+						{name "reinforcements/menu/pz4h"}
+					}
+				}
+			}
+			{"reinforcements/menu/mech_inf"
+				{condition
+					{terms
+						{"1.event"
+							{id "menu_mech_inf"}
+						}
+					}
+				}
+				{actions
+					{"event"
+						{event "menu_mech_inf"}
+						{mode reset}
+						{delay 2}
+					}
+					{"actor_to_waypoint"
+						{selector
+							{tag mech_inf}
+						}
+						{waypoint "0"}
+						{clone}
+					}
+					{"actor_state"
+						{selector
+							{tag mech_inf}
+						}
+						{control user}
+						{fire_mode open}
+						{move_mode hold}
+						{weapon_prepare on}
+						{ai_move
+							{mode enable}
+						}
+						{movement
+							{speed normal}
+						}
+					}
+					{"delay"
+						{time 2}
+					}
+					{"trigger"
+						{name "reinforcements/menu/mech_inf"}
+					}
+				}
+			}
+		}
+		{waypoints "reinforcments"
+			{"0"
+				{position -2766.54 -74.1651 10}
+			}
+			{"1"
+				{position -2769.53 21.8408 10}
+			}
+		}
+	}
+	{Fog 1}
+}
