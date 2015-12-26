@@ -1,4 +1,5 @@
-Three levels I worked on in my spare time from roughly July 2015 - September 2015 Work in Progress
+Three levels I worked on in my spare time from roughly July 2015 - September 2015 (Work in Progress)
+Due to the size restrictions of GitHub, the video for Level 2 has not yet been uploaded.
 
 The Ardennes Offensive is a series of levels built in the GEM Editor of Digitalmindsoft’s game Men of War: Assault Squad. The project is intended to serve as roughly half of a short RTS campaign using the same assets and mechanics as the base game. The campaign is set in an alternate version of 1944 - 1946 where the German Ardennes Offensive was successful, prolonging the war by an extra year. The levels featured are the first (The Fall of Bastogne), the second (German Steel), and the final/sixth (The Battle of Antwerp). Due to the demands of school, work ,and other projects, I intended to work on only these three as a proof of concept. However, due to my getting an internship and the subsequent necessity to learn Unreal Engine 4 (i.e. working on the Hill 262 project), I was forced to cut this project short. Though I would like to finish these three levels (if not all six), these three levels are very much works in progress.
 
